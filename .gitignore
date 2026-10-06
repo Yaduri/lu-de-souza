@@ -1,0 +1,15 @@
+# Sistema e arquivos temporários
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs e ferramentas locais
+*.log
+scratch/
+.system_generated/
+
+# Arquivos de mídia brutos da raiz (já organizados dentro de /assets)
+/foto de rosto lu.jpg
+/video massagem no pé.mp4
+/video procedimento.mp4
+
